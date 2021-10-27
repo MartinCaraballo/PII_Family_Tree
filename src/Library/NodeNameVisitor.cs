@@ -1,4 +1,4 @@
-namespace Library
+/* namespace Library
 {
     public class NodeNameVisitor : Visitor
     {
@@ -7,4 +7,4 @@ namespace Library
             
         }
     }
-}
+} */

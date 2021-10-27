@@ -2,7 +2,7 @@ namespace Library
 {
     public class NodeSonVisitor : Visitor
     {
-        public override int Visit(Family family)
+        public override int VisitAge(Family family)
         {
             int result = 0;
             foreach (var item in family.Persons)

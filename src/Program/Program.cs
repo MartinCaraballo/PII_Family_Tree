@@ -45,7 +45,7 @@ namespace Program
 
             // visitar el árbol 
             NodeAgeVisitor visitor = new NodeAgeVisitor();
-            Console.WriteLine($"La suma de las edades es: {visitor.Visit(family)}");
+            Console.WriteLine($"La suma de las edades es: {visitor.VisitAge(family)}");
             
         }
     }
